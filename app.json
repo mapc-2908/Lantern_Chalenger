@@ -1,0 +1,7 @@
+{
+  "name": "LanternChalenger",
+  "displayName": "LanternChalenger",
+  "icon": "./assets/apps_flashlight.png",
+  "version": "1.0.0",
+  "orientation": "portrait"
+}
