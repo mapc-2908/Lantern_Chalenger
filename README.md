@@ -2,6 +2,7 @@
 Resolução do Projeto DIO
 
 Este projeto foi desenvolvido com base nas aulas da DIO: Decola Tech 3ª Edição!
+
 **Construindo um App usando Sensor de Movimento com React Native**
 
 ### Modificações / Melhoramentos
